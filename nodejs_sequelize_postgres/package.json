@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "lesarning ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "aruna"
+  ],
+  "author": "aruna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "pg": "8.5.1",
+    "pg-hstore": "2.3.3",
+    "sequelize": "5.2.0"
+  }
+}
